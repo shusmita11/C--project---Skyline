@@ -1,2 +1,2 @@
-#This project is a inventory management system.
+#This project is an inventory management system.
  
